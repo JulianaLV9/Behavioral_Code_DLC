@@ -1,1 +1,2 @@
 These codes were created with the objective of aligning two sources of information from my behavioral task, 'Reaching Task.' The first source is binary information provided by LED data recorded by a camera and the digital inputs from the Arduino. The second part's main objective is to extract postural information based on the DeepLabCut analysis. 
+The main code file is named RT_eventos_conducta_outliers.m. Inside this code, you will find multiple functions.
