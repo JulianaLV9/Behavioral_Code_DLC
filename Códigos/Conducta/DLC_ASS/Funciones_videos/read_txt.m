@@ -1,0 +1,1 @@
+load('D:\CRU\CRU 30\CRU30-S9-H10_M27_S36\variables.txt')
